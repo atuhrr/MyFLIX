@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Romantic",
+      "link": "/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Watch now",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "The Golden Glove is named after the pub in the red-light district of Hamburg where the defaced alcoholic Honka met his victims.",
+          "url": "https://www.youtube.com/watch?v=vQpQ2rWFlYc"
+        },
+        {
+          "titulo": "To All the Boys I've Loved Before",
+          "url": "https://www.youtube.com/watch?v=j-3s0-PEd4c"
+        },
+        {
+          "titulo": "The Kissing Booth 2",
+          "url": "https://www.youtube.com/watch?v=fjVonI2oVeM"
+        },
+        {
+          "titulo": "Norbit",
+          "url": "https://www.youtube.com/watch?v=HFIdZpc2L6w"
+        },
+        {
+          "titulo": "To All the Boys I’ve Loved Before",
+          "url": "https://www.youtube.com/watch?v=555oiY9RWM4"
+        },
+        {
+          "titulo": "Airplane Mode",
+          "url": "https://www.youtube.com/watch?v=2Jn3s33ca44"
+        },
+        {
+          "titulo": "Under the Riccione Sun",
+          "url": "https://www.youtube.com/watch?v=94IZJCxKQV8"
+        },
+        {
+          "titulo": "Love",
+          "url": "https://www.youtube.com/watch?v=FwiU4O5Cxrc"
+        }        
+      ]
+    },
+    {
+      "titulo": "War / Action",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Watch now",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Dunkirk",
+          "url": "https://www.youtube.com/watch?v=F-eMt3SrfFU"
+        },
+        {
+          "titulo": "Inglourious Basterds",
+          "url": "https://www.youtube.com/watch?v=w1O5LThfp7w"
+        },
+        {
+          "titulo": "American Sniper",
+          "url": "https://www.youtube.com/watch?v=Gl2jBtlJ42g"
+        },
+        {
+          "titulo": "War for the Planet of the Apes",
+          "url": "https://www.youtube.com/watch?v=DqkzzMYQI5g"
+        }, 
+        {
+          "titulo": "Schindler's List",
+          "url": "https://www.youtube.com/watch?v=RQfPCRUz6lw"
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": " ",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Fiction",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": " ",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": " ",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
